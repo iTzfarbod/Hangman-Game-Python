@@ -12,7 +12,7 @@ This Hangman game is a simple Python project where players guess letters to reve
 
 1. Run the game using the following command:
 ```powershell
-python hangman code.py
+python hangman_code.py
 ```
 2. Choose a subject category (Provinces of Iran, games, food, or animals).
 3. The game will randomly select a word from the chosen category.
