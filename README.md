@@ -33,4 +33,4 @@ Feel free to contribute to this project by adding more words to the predefined c
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/iTzfarbod/Hangman-Game-Python/blob/main/LICENSE) file for details.
